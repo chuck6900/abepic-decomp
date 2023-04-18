@@ -13,3 +13,11 @@ For context here are the milestones:
 80%: Game compiles to iOS and Android  
 100%: Most bugs are successfully patched and decomp is finished
 
+# [Change Log](/CHANGELOG.md)
+
+Current version:
+
+[**v0.1b**  - FIRST RELEASE!](/CHANGELOG.md#v01b----first-release)
+* Made the repository
+* Imported the game into Unity
+* Fixed some scripts
