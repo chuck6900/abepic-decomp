@@ -4,4 +4,12 @@ Keep in mind that this is a WORK IN PROGRESS and I'm not expecting to complete t
 
 # Current Progress
 
-https://progress-bar.dev/91/
+![50](https://progress-bar.dev/20/?title=completed&width=500)
+
+For context here are the milestones:  
+20%: Project opened in Unity  
+40%: Compiler errors fixed  
+60%: Game compiles in the editor  
+80%: Game compiles to iOS and Android  
+100%: Most bugs are successfully patched and decomp is finished
+
